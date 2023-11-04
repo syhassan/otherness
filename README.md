@@ -4,4 +4,4 @@
 This project is to analyse and visualise the language of _non-conformity_, or _otherness_.
 
 ## Data
-![Image Frequency](./img/Bubble.png)
+![Image Frequency](/img/Bubble.png)
