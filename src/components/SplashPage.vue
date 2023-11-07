@@ -13,8 +13,6 @@
         sentiments of non-conformity- or otherness, in the context of identity, spanning across different
       ages, races, cultural identities, sexualities, and genders.</h1>
 
-      
-    
     </v-responsive>
   </v-container>
 </template>
