@@ -1,5 +1,5 @@
 <template>
-  <SplashPage />
+  <SplashPage/>
 </template>
 
 <script setup>
