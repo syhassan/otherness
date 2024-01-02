@@ -3,15 +3,12 @@
     <v-responsive class="align text-left fill-height">
       <div class="py-3"/>
 
-      <div class="text-h4 font-italic font-weight-medium">The Vocabulary of</div>
+      <h4 class="font-italic font-weight-medium">The Vocabulary of</h4>
 
-      <h1 class="text-h1 font-italic font-weight-bold">Otherness</h1>
-
-      <div class="py-10"/>
-
-      <h1 class="text-body font-italic font-weight-light">This project explores the vocabulary and 
+      <h1 class="font-italic">Otherness</h1>
+      <p class="text-body font-italic font-weight-light">This project explores the vocabulary and 
         sentiments of non-conformity- or otherness, in the context of identity, spanning across different
-      ages, races, cultural identities, sexualities, and genders.</h1>
+      ages, races, cultural identities, sexualities, and genders.</p>
 
       <div class="py-10"/>
       <div class="py-10"/>
@@ -61,6 +58,27 @@
 </script>
 
 <style scoped>
+h1 {
+  font-size: 200px;
+  color: #FCF4D8;
+  font-weight: normal;
+  letter-spacing: 10;  
+  line-height: 90%;
+}
+h4 {
+  font-size: 50px;
+  color: #FCF4D8;
+  font-weight: bold;
+  letter-spacing: 1px;
+  line-height:0%
+}
+p {
+  font-family:'Roboto';
+  color: #FCF4D8;
+  font-size: 30px;
+  line-height: 40px;
+  margin-top: -40px;
+}
 .one {
   height: 300px;
   width: 300px;
