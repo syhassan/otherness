@@ -17,9 +17,12 @@
        the frequency of the words used and the data has been visualised to show us a representation of what the vocabulary
        for non-conformity is.</p>
 
+       <h2 class="font-italic">The Data</h2>
+
+      <div class="py-5"/>
+      <div class="py-5"/>
       <div class="py-5"/>
 
-      <h2 class="font-italic">The Data</h2>
 
 <!-- 
       <div class="py-10"/>
@@ -52,7 +55,7 @@
       <div class="py-10"/>
       <div class="py-10"/> -->
       
-      <v-container fluid style="height:800px; width:800px; position:relative; top: -100px; left: 0%;">
+      <v-container fluid style="height:850px; width:1000px; position:relative; top: -100px; left: 0%; margin-left: 0; margin-right: 0;">
         <div class="one">
           <div class=" font-italic">People</div>
         </div>
@@ -144,17 +147,17 @@ p {
   border-radius: 50%;
   text-align: center;
   
-  height: calc(608px * 2);
-  width: calc(608px * 2);
-  line-height: 700px;
+  height: calc(608px * 1.5);
+  width: calc(608px * 1.5);
+  line-height: calc(608px * 1.5);
   
   font-size: 200px;
   
   opacity: 75%;
   background: #EC6F15;
   
-  top: 45%;
-  left: -35%;
+  top: 3%;
+  left: 10%;
   margin: 0 auto;
   position: absolute;
 }
@@ -163,17 +166,17 @@ p {
   border-radius: 50%;
   text-align: center;
   
-  height: calc(326px * 2);
-  width: calc(326px * 2);
-  line-height: calc(326px * 2);
+  height: calc(326px * 1.5);
+  width: calc(326px * 1.5);
+  line-height: calc(326px * 1.5);
 
   font-size: 100px;
 
   opacity: 75%;
   background: #BF67AB;
   
-  top: 50%;
-  left: 70%;
+  top: 0%;
+  left: 66%;
   margin: 0 auto;
   position: absolute;
 }
@@ -181,17 +184,17 @@ p {
   border-radius: 50%;
   text-align: center;
   
-  height: calc(291px * 2);
-  width: calc(291px * 2);
-  line-height: calc(291px * 2);
+  height: calc(291px * 1.5);
+  width: calc(291px * 1.5);
+  line-height: calc(291px * 1.5);
   
   font-size: 100px;
   
   opacity: 75%;
   background: #716FCE;
   
-  top: 5%;
-  left: 80%;
+  top: 50%;
+  left: -0%;
   margin: 0 auto;
   position: absolute;
 }
@@ -199,17 +202,17 @@ p {
   border-radius: 50%;
   text-align: center;
 
-  height: calc(252px * 2);
-  width: calc(252px * 2);
-  line-height: calc(252px * 2);
+  height: calc(252px * 1.5);
+  width: calc(252px * 1.5);
+  line-height: calc(252px * 1.5);
   
   font-size: 100px;
   
   opacity: 75%;
   background: #53917E;
   
-  top: 20%;
-  left: 40%;
+  top: 10%;
+  left: 0%;
   margin: 0 auto;
   position: absolute;
 }
@@ -217,9 +220,9 @@ p {
   border-radius: 50%;
   text-align: center;
   
-  height: calc(173px * 2);
-  width: calc(173px * 2);
-  line-height: calc(173px * 2);
+  height: calc(172px * 1.5);
+  width: calc(172px * 1.5);
+  line-height: calc(172px * 1.5);
   
   font-size: 75px;
 
@@ -227,25 +230,25 @@ p {
   background: #E3A913;
 
   margin: 0 auto;
-  top: 0%;
-  left: 60%;
+  top: 45%;
+  left: 90%;
   position: absolute;
 }
 .six {
   border-radius: 50%;
   text-align: center;
 
-  height: calc(147px * 2);
-  width: calc(147px * 2);
-  line-height: calc(147px * 2);
+  height: calc(146px * 1.5);
+  width: calc(146px * 1.5);
+  line-height: calc(146px * 1.5);
   
   font-size: 75px;
 
   opacity: 75%;
   background: #AD00FE;
 
-  top: 0%;
-  left: 15%;
+  top: -15%;
+  left: 45%;
   margin: 0 auto;
   position: absolute;
 }
@@ -253,17 +256,17 @@ p {
   border-radius: 50%;
   text-align: center;
 
-  height: calc(143px * 2);
-  width: calc(143px * 2);
-  line-height: calc(143px * 2);
+  height: calc(142px * 1.5);
+  width: calc(142px * 1.5);
+  line-height: calc(142px * 1.5);
   
   font-size: 75px;
 
   opacity: 75%;
   background: #16E0BD;
 
-  top: 50%;
-  left: -30%;
+  top: -12%;
+  left: 64%;
   margin: 0 auto;
   position: absolute;
 }
@@ -271,17 +274,17 @@ p {
   border-radius: 50%;
   text-align: center;
 
-  height: calc(121px * 2);
-  width: calc(121px * 2);
-  line-height: calc(121px * 2);
+  height: calc(120px * 1.5);
+  width: calc(120px * 1.5);
+  line-height: calc(120px * 1.5);
   
   font-size: 75px;
 
   opacity: 75%;
   background: #89DAFF;
 
-  top: 30%;
-  left: -20%;
+  top: 70%;
+  left: 90%;
   margin: 0 auto;
   position: absolute;
 }
@@ -289,17 +292,17 @@ p {
   border-radius: 50%;
   text-align: center;
 
-  height: calc(117px * 2);
-  width: calc(117px * 2);
-  line-height: calc(117px * 2);
+  height: calc(116px * 1.5);
+  width: calc(116px * 1.5);
+  line-height: calc(116px * 1.5);
   
   font-size: 30px;
 
   opacity: 75%;
   background: #4237CA;
 
-  top: 25%;
-  left: 27%;
+  top: 0%;
+  left: 20%;
   margin: 0 auto;
   position: absolute;
 }
@@ -307,17 +310,17 @@ p {
   border-radius: 50%;
   text-align: center;
 
-  height: calc(100px * 2);
-  width: calc(100px * 2);
-  line-height: calc(100px * 2);
+  height: calc(100px * 1.5);
+  width: calc(100px * 1.5);
+  line-height: calc(100px * 1.5);
   
   font-size: 30px;
 
   opacity: 75%;
   background: #E02929;
 
-  top: 55%;
-  left: 118%;
+  top: 45%;
+  left: 0%;
   margin: 0 auto;
   position: absolute;
 }
