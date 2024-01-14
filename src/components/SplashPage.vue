@@ -4,12 +4,24 @@
       <div class="py-3"/>
 
       <h4 class="font-italic font-weight-medium">The Vocabulary of</h4>
-
       <h1 class="font-italic">Otherness</h1>
-      <p class="text-body font-italic font-weight-light">This project explores the vocabulary and 
+      <h3 class="text-body font-italic font-weight-light">This project explores the vocabulary and 
         sentiments of non-conformity- or otherness, in the context of identity, spanning across different
-      ages, races, cultural identities, sexualities, and genders.</p>
+      ages, races, cultural identities, sexualities, and genders.</h3>
 
+      <div class="py-5"/>
+
+      <h2 class="font-italic">The Process</h2>
+      <p class="text-body font-italic font-weight-light">Participants spanning across the spectrums of nationality, sexuality, 
+        ethnicity and ages were interviewed about their feelings towards non-conformity. The interviews were analysed in terms of
+       the frequency of the words used and the data has been visualised to show us a representation of what the vocabulary
+       for non-conformity is.</p>
+
+      <div class="py-5"/>
+
+      <h2 class="font-italic">The Data</h2>
+
+<!-- 
       <div class="py-10"/>
       <div class="py-10"/>
       <div class="py-10"/>
@@ -24,31 +36,64 @@
       <div class="py-10"/>
       <div class="py-10"/>
       <div class="py-10"/>
+      <div class="py-10"/>
+      <div class="py-10"/>
+      <div class="py-10"/>
+      <div class="py-10"/>
+      <div class="py-10"/>
+      <div class="py-10"/>
+      <div class="py-10"/>
+      <div class="py-10"/>
+      <div class="py-10"/>
+      <div class="py-10"/>
+      <div class="py-10"/>
+      <div class="py-10"/>
+      <div class="py-10"/>
+      <div class="py-10"/>
+      <div class="py-10"/> -->
       
-      <v-container fluid style="height:1200px; width:1000px; position:absolute; top: 20%; left: 0%;">
+      <v-container fluid style="height:800px; width:1000px; position:relative; top: -100px; left: 0%;">
         <div class="one">
-          <div class=" font-italic">Community</div>
+          <div class=" font-italic">People</div>
         </div>
 
         <div class="two">
-          <div class=" font-italic">Acceptance</div>
+          <div class=" font-italic">Community</div>
         </div>
 
         <div class="three">
-          <div class=" font-italic">Connection</div>
+          <div class=" font-italic">Art</div>
         </div>
         
         <div class="four">
-          <div class=" font-italic">Love</div>
+          <div class=" font-italic">Time</div>
         </div>
         
         <div class="five">
-          <div class=" font-italic">Identity</div>
+          <div class=" font-italic">Gender</div>
         </div>
 
         <div class="six">
-          <div class=" font-italic">Self-image</div>
+          <div class=" font-italic">Friends</div>
         </div>
+
+        <div class="seven">
+          <div class=" font-italic">Person</div>
+        </div>
+
+        <div class="eight">
+          <div class=" font-italic">Brown</div>
+        </div>
+
+
+        <div class="nine">
+          <div class=" font-italic">Name</div>
+        </div>
+
+        <div class="ten">
+          <div class=" font-italic">Different</div>
+        </div>
+
       </v-container>
  
     </v-responsive>
@@ -67,6 +112,20 @@ h1 {
   letter-spacing: 10;  
   line-height: 90%;
 }
+h2 {
+  font-size: 100px;
+  color: #FCF4D8;
+  font-weight: normal;
+  letter-spacing: 10;
+  line-height:100%
+}
+h3 {
+  font-family:'Roboto';
+  color: #FCF4D8;
+  font-size: 30px;
+  line-height: 35px;
+  margin-top: -40px;
+}
 h4 {
   font-size: 50px;
   color: #FCF4D8;
@@ -77,87 +136,189 @@ h4 {
 p {
   font-family:'Roboto';
   color: #FCF4D8;
-  font-size: 30px;
-  line-height: 40px;
-  margin-top: -40px;
+  font-size: 25px;
+  line-height: 30px;
+  margin-top: -20px;
 }
 .one {
-  opacity: 75%;
-  height: 300px;
-  width: 300px;
-  line-height: 300px;
   border-radius: 50%;
-  background: #53917E;
-  top: 40%;
-  left: 54%;
+  text-align: center;
+  
+  height: calc(608px * 2);
+  width: calc(608px * 2);
+  line-height: 700px;
+  
+  font-size: 200px;
+  
+  opacity: 75%;
+  background: #EC6F15;
+  
+  top: 45%;
+  left: -35%;
   margin: 0 auto;
   position: absolute;
-  text-align: center;
 }
 
 .two {
-  opacity: 75%;
-  height: 400px;
-  width: 400px;
-  line-height: 400px;
   border-radius: 50%;
-  background: #FA7921;
-  top: 30%;
-  left: 19%;
+  text-align: center;
+  
+  height: calc(326px * 2);
+  width: calc(326px * 2);
+  line-height: calc(326px * 2);
+
+  font-size: 100px;
+
+  opacity: 75%;
+  background: #BF67AB;
+  
+  top: 50%;
+  left: 70%;
   margin: 0 auto;
   position: absolute;
-  text-align: center;
 }
 .three {
-  opacity: 75%;
-  height: 200px;
-  width: 200px;
-  line-height: 200px;
   border-radius: 50%;
-  background: #FCD757;
-  top: 35%;
-  left: 9%;
+  text-align: center;
+  
+  height: calc(291px * 2);
+  width: calc(291px * 2);
+  line-height: calc(291px * 2);
+  
+  font-size: 100px;
+  
+  opacity: 75%;
+  background: #716FCE;
+  
+  top: 5%;
+  left: 80%;
   margin: 0 auto;
   position: absolute;
-  text-align: center;
 }
 .four {
-  opacity: 75%;
-  height: 250px;
-  width: 250px;
-  line-height: 250px;
   border-radius: 50%;
-  background: #716FCE;
-  top: 50%;
-  left: 9%;
+  text-align: center;
+
+  height: calc(252px * 2);
+  width: calc(252px * 2);
+  line-height: calc(252px * 2);
+  
+  font-size: 100px;
+  
+  opacity: 75%;
+  background: #53917E;
+  
+  top: 20%;
+  left: 40%;
   margin: 0 auto;
   position: absolute;
-  text-align: center;
 }
 .five {
-  opacity: 75%;
-  height: 250px;
-  width: 250px;
-  line-height: 250px;
   border-radius: 50%;
-  background: #D90D0D;
-  top: 50%;
-  left: 29%;
-  margin: 0 auto;
-  position: absolute;
   text-align: center;
+  
+  height: calc(173px * 2);
+  width: calc(173px * 2);
+  line-height: calc(173px * 2);
+  
+  font-size: 75px;
+
+  opacity: 75%;
+  background: #E3A913;
+
+  margin: 0 auto;
+  top: 0%;
+  left: 60%;
+  position: absolute;
 }
 .six {
-  opacity: 75%;
-  height: 150px;
-  width: 150px;
-  line-height: 150px;
   border-radius: 50%;
-  background: #BF67AB;
-  top: 30%;
-  left: 49%;
+  text-align: center;
+
+  height: calc(147px * 2);
+  width: calc(147px * 2);
+  line-height: calc(147px * 2);
+  
+  font-size: 75px;
+
+  opacity: 75%;
+  background: #AD00FE;
+
+  top: 0%;
+  left: 15%;
   margin: 0 auto;
   position: absolute;
+}
+.seven {
+  border-radius: 50%;
   text-align: center;
+
+  height: calc(143px * 2);
+  width: calc(143px * 2);
+  line-height: calc(143px * 2);
+  
+  font-size: 75px;
+
+  opacity: 75%;
+  background: #16E0BD;
+
+  top: 50%;
+  left: -30%;
+  margin: 0 auto;
+  position: absolute;
+}
+.eight {
+  border-radius: 50%;
+  text-align: center;
+
+  height: calc(121px * 2);
+  width: calc(121px * 2);
+  line-height: calc(121px * 2);
+  
+  font-size: 75px;
+
+  opacity: 75%;
+  background: #89DAFF;
+
+  top: 30%;
+  left: -20%;
+  margin: 0 auto;
+  position: absolute;
+}
+.nine {
+  border-radius: 50%;
+  text-align: center;
+
+  height: calc(117px * 2);
+  width: calc(117px * 2);
+  line-height: calc(117px * 2);
+  
+  font-size: 30px;
+
+  opacity: 75%;
+  background: #4237CA;
+
+  top: 25%;
+  left: 27%;
+  margin: 0 auto;
+  position: absolute;
+}
+.ten {
+  border-radius: 50%;
+  text-align: center;
+
+  height: calc(100px * 2);
+  width: calc(100px * 2);
+  line-height: calc(100px * 2);
+  
+  font-size: 30px;
+
+  opacity: 75%;
+  background: #E02929;
+
+  top: 55%;
+  left: 118%;
+  margin: 0 auto;
+  position: absolute;
 }
 </style>
