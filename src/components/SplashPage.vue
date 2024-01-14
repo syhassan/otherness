@@ -52,7 +52,7 @@
       <div class="py-10"/>
       <div class="py-10"/> -->
       
-      <v-container fluid style="height:800px; width:1000px; position:relative; top: -100px; left: 0%;">
+      <v-container fluid style="height:800px; width:800px; position:relative; top: -100px; left: 0%;">
         <div class="one">
           <div class=" font-italic">People</div>
         </div>
