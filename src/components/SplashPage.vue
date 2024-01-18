@@ -6,7 +6,7 @@
       <h4 class="font-italic font-weight-medium">The Vocabulary of</h4>
       <h1 class="font-italic">Otherness</h1>
       <h3 class="text-body font-italic font-weight-light">This project explores the vocabulary 
-       of non-conformity- or otherness, in the context of identity, spanning across different
+       of non-conformity or otherness, in the context of identity, spanning across different
       ages, races, cultural identities, sexualities, and genders.</h3>
 
       <div class="py-5"/>
