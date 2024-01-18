@@ -5,55 +5,24 @@
 
       <h4 class="font-italic font-weight-medium">The Vocabulary of</h4>
       <h1 class="font-italic">Otherness</h1>
-      <h3 class="text-body font-italic font-weight-light">This project explores the vocabulary and 
-        sentiments of non-conformity- or otherness, in the context of identity, spanning across different
+      <h3 class="text-body font-italic font-weight-light">This project explores the vocabulary 
+       of non-conformity- or otherness, in the context of identity, spanning across different
       ages, races, cultural identities, sexualities, and genders.</h3>
 
       <div class="py-5"/>
 
       <h2 class="font-italic">The Process</h2>
-      <p class="text-body font-italic font-weight-light">Participants spanning across the spectrums of nationality, sexuality, 
-        ethnicity and ages were interviewed about their feelings towards non-conformity. The interviews were analysed in terms of
+      <p class="text-body font-italic font-weight-light">Participants were interviewed about their feelings towards non-conformity. The interviews were analysed in terms of
        the frequency of the words used and the data has been visualised to show us a representation of what the vocabulary
        for non-conformity is.</p>
 
-       <h2 class="font-italic">The Data</h2>
+      <div class="py-5"/>
+
+      <h2 class="font-italic">The Data</h2>
 
       <div class="py-5"/>
       <div class="py-5"/>
       <div class="py-5"/>
-
-
-<!-- 
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/>
-      <div class="py-10"/> -->
       
       <v-container fluid style="height:850px; width:1000px; position:relative; top: -100px; left: 0%; margin-left: 0; margin-right: 0;">
         <div class="one">
@@ -65,15 +34,15 @@
         </div>
 
         <div class="three">
-          <div class=" font-italic">Art</div>
+          <div class=" font-italic">Gender</div>
         </div>
         
         <div class="four">
-          <div class=" font-italic">Time</div>
+          <div class=" font-italic">Art</div>
         </div>
         
         <div class="five">
-          <div class=" font-italic">Gender</div>
+          <div class=" font-italic">Time</div>
         </div>
 
         <div class="six">
